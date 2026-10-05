@@ -1,0 +1,529 @@
+
+.page1{
+    background-color: rgba(82, 112, 94, 1);
+    padding: 174px 168px 64px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:100px;
+}
+.block1{
+    padding-left: 8px;
+}
+.note1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    color:white;
+    line-height: 22px;
+    margin-bottom: 16px;
+}
+.title1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 67px;
+    color:white;
+    font-style: bold;
+    line-height: 80px;
+    margin-bottom: 32px;
+}
+.note2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+    font-style: bold;
+    color:white;
+    line-height: 28px;
+    margin-bottom: 28px;
+}
+
+.hinh1{
+    margin: 0px 73px 3px 0px;
+}
+.nut{
+    display:flex;
+    flex-direction:row;
+    gap: 16px;
+}
+.nut1{
+    background-color: rgba(236, 224, 206, 1);
+    border: 2px solid rgba(236, 224, 206, 1);
+    color: rgba(3, 54, 61, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 28px;
+    padding: 10px 27.66px 10px 27px;
+}
+.nut2{
+    border: 2px solid rgba(236, 224, 206, 1);
+    color:rgba(236, 224, 206, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 28px;
+    padding: 10px 27.66px 10px 27px;
+}
+.part1{
+    padding: 64px 174px; 
+}
+.logo{
+    display:flex;
+    justify-content: center; 
+    gap: 40px;
+}
+.page2{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.block2{
+    display:flex;
+    flex-direction: column;
+    justify-items: center;
+    padding: 64px 176px;
+}
+.note3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    text-align: center;
+    line-height: 22px;
+    margin-bottom: 16px;
+}
+.title2{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 29px;
+    line-height: 40px;
+    text-align: center;
+    color: rgba(3, 54, 61, 1);
+}
+.noidung{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:16px;
+    padding: 64px 8px 0;  
+}
+.col{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.muc{
+    text-align: center;
+    padding: 44px 0px 30px;
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 22px;
+    line-height: 32px;
+    color: rgba(3, 54, 61, 1);
+
+}
+.doan{
+    text-align: center;
+    font-family: Arial;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(23, 73, 77, 1);
+}
+.duongdan{
+    display:flex;
+    align-items: center;
+    text-align: center;
+    color: rgba(23, 73, 77, 1);
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 17px;
+    line-height: 28px;
+}
+.page3{
+    background-color: rgba(248, 249, 249, 1);
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+}
+.block3{
+    margin: 64px 168px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    padding: 0px 0px 3px 8px;
+}
+.block5{
+    padding: 3px 8px;
+}
+.noidung1{
+    font-family: Arial;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(23, 73, 77, 1);
+    padding: 30px 0 22px;
+}
+.note4{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color: rgba(3, 54, 61, 1);
+    white-space: nowrap;
+}
+.tieude{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 44px;
+    line-height: 56px;
+    color: rgba(3, 54, 61, 1);
+}
+.block4{
+    background-color: rgba(3, 54, 61, 1);
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+    margin: 64px 176px;
+    padding:0px 56px;
+}
+.giua{
+    padding-right: 15.24px; 
+}
+.tren{
+    color: #FFFFFF;
+    padding-bottom: 24px;
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 21px;
+    line-height: 32px;
+}
+.samac{
+    padding: 64px 0px 67px 0px;
+}
+
+.noidung2{
+    font-family: Arial;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+
+}
+.SeeROIresources{
+    padding: 8px 25.94px 8px 26px;
+    color: #03363D;
+    background-color: #ECE0CE;
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 15px;
+    white-space: nowrap;
+}
+.block6{
+    padding: 64px 168px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.tieude1{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 43px;
+    line-height: 56px;
+    color: #03363D;
+}
+.duongdan1{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 28px;
+    color: #17494D;
+    display:flex;
+    align-items: center;
+    text-align: center;
+}
+.khung{
+    padding: 8px;
+}
+.page4{
+    padding: 64px 176px;
+    background-color: #F8F9F9;
+}
+.note5{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color: rgba(3, 54, 61, 1);
+    text-align: center;
+}
+.noidung3{
+    font-family: Arial;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(23, 73, 77, 1);
+    padding: 30px 0 22px;
+    text-align: center;
+}
+.page5{
+    padding: 64px 176px;
+}
+.big{
+    padding: 0px 8px 41.5px;
+}
+.ngoai{
+    padding: 64px 306.67px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+.part2{
+    font-family: Arial;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 22px;
+    line-height: 30px;
+    color: #17494D;
+}
+.robin{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    line-height: 28px;
+    color: #03363D;
+}
+.block8{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.tieude2{
+    padding: 3px 61.41px 28px 61.61px;
+}
+.chuthich{
+    font-family: Arial;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 13px;
+    line-height: 18px;
+    color: #17494D;
+    padding: 14px 0px;
+}
+.part3{
+    padding: 34px 0 24px;
+}
+.part4{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 15px;
+    line-height: 24px;
+    color: #17494D;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.part5{
+    padding:32px 8px 14px;
+    display:flex;
+    flex-direction: row;
+    gap: 16px;
+}
+.chinh{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 32px;
+    line-height: 40px;
+    color:#03363D;
+    text-align: center;
+    padding-bottom: 17px;
+}
+.phu{
+    font-family: Arial;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 13px;
+    line-height: 100%;
+    text-align: center;
+    
+}
+.khoi1{
+    padding-bottom: 64px;
+}
+.page6{
+    background-color: #587052;
+    padding:64px 168px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+.khoi2{
+    padding: 4px 176.16px 0px 8px;
+}
+.zen{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 43px;
+    line-height: 56px;
+    color: #FFFFFF;
+    padding-bottom: 28px;
+}
+.page7{
+    padding: 64px 176px;
+
+}
+.menu{
+    display:flex;
+    flex-direction: row;
+    margin-top: 27px;
+}
+.char{
+    font-family: Arial;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 11px;
+    color: #68737D;
+    line-height: 18px;
+    letter-spacing: 0%;
+}
+.note6{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 13px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color: #03363D;
+
+}
+.khoi{
+    display:flex;
+    flex-direction: column;
+    gap: 9px;
+    white-space: nowrap;
+    margin-top: 20px;
+}
+.champion{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 22px;
+    line-height: 32px;
+    color: #03363D;
+    padding: 4px 48.38px 0px 0px;
+}
+.product{
+    padding:3px 50.85px 0px 8px;
+}
+.feature{
+    padding:3px 45px 0px 8px;
+}
+.resources{
+    padding:3px 81.69px 0px 8px;
+}
+.company{
+    padding:3px 76px 0px 8px;
+}
+.fav{
+    padding:3px 21px 0px 8px;
+}
+hr{
+    border-color: 1px solid #C2C8CC;
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+.khoi3{
+    padding: 0px 8px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.enter{
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 21px;
+    line-height: 32px;
+    color: #03363D;
+
+}
+.note7{
+    font-family: Arial;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    line-height: 24px;
+    color: #17494D;
+    white-space: nowrap;
+    padding-bottom: 32px;
+}
+.bang{
+    padding: 0px 136px 0px 81px;
+    display:flex;
+    flex-direction: row;
+    height:48px;
+}
+.nhap{
+    font-family: Arial;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    line-height: 100%;
+    color: #C2C8CC;
+    border: 1.5px solid #68737D;
+    padding: 15px 169.84px 16px 12px;
+    white-space: nowrap;
+}
+.button{
+    padding: 10px 26px;
+    background: #17494D;
+    font-family: Arial;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 17px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.cuoi{
+    display:flex;
+    flex-direction: row;
+    gap:12px;
+}
+.tag1{
+    font-family: Arial;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 11px;
+    line-height: 28px;
+    color: #68737D;
+}
